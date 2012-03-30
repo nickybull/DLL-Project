@@ -1,0 +1,7 @@
+C:\Users\nickybull\Desktop\Weible_Lib\Weible_Weather\bin\Debug\Weible_Weather.exe
+C:\Users\nickybull\Desktop\Weible_Lib\Weible_Weather\bin\Debug\Weible_Weather.pdb
+C:\Users\nickybull\Desktop\Weible_Lib\Weible_Weather\bin\Debug\Weible_Lib.dll
+C:\Users\nickybull\Desktop\Weible_Lib\Weible_Weather\bin\Debug\Weible_Lib.pdb
+C:\Users\nickybull\Desktop\Weible_Lib\Weible_Weather\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nickybull\Desktop\Weible_Lib\Weible_Weather\obj\x86\Debug\Weible_Weather.exe
+C:\Users\nickybull\Desktop\Weible_Lib\Weible_Weather\obj\x86\Debug\Weible_Weather.pdb

@@ -1,0 +1,5 @@
+C:\Users\nickybull\Desktop\Weible_Lib\Weible_Lib\bin\Debug\Weible_Lib.dll
+C:\Users\nickybull\Desktop\Weible_Lib\Weible_Lib\bin\Debug\Weible_Lib.pdb
+C:\Users\nickybull\Desktop\Weible_Lib\Weible_Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nickybull\Desktop\Weible_Lib\Weible_Lib\obj\Debug\Weible_Lib.dll
+C:\Users\nickybull\Desktop\Weible_Lib\Weible_Lib\obj\Debug\Weible_Lib.pdb
